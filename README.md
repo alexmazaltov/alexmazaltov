@@ -14,7 +14,7 @@
     />
   </a>
 
-  <a href="https://api.daily.dev/alexmazaltov" target="_blank">
+  <a href="https://app.daily.dev/alexmazaltov" target="_blank">
     <img
       width="256"
       align="right"
