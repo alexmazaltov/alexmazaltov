@@ -23,7 +23,7 @@
   </a>
 </div>
 
-## I am Alex Mazaltov
+## I am Alex Mazaltov/Oleksii Bondarenko/Asher Bonderman
 
 - Software Engineer and CEO at [alefinvest.xyz](https://alefinvest.xyz/)
 - Loves a jewish songs.
