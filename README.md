@@ -23,9 +23,10 @@
   </a>
 </div>
 
-## I am Alex Mazaltov/Oleksii Bondarenko/Asher Bonderman
+## I am Oleksii Bondarenko
 
 - Software Engineer and CEO at [alefinvest.xyz](https://alefinvest.xyz/)
+- Known in Discord as Alex Mazaltov or Asher Bonderman
 - Loves a jewish songs.
 
 <!--
