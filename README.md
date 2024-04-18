@@ -1,5 +1,5 @@
 # Hi there 👋
-
+[![Oleksii Bondarenko profile views](https://u8views.com/api/v1/github/profiles/71653234/views/day-week-month-total-count.svg)](https://u8views.com/github/alexmazaltov)
 <div align="left">
   <a href="https://twitter.com/alefinvest">
     <img
