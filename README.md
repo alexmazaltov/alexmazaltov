@@ -32,3 +32,6 @@
 <!--
 <a href="https://app.daily.dev/alexmazaltov"><img src="https://github.com/alexmazaltov/alexmazaltov/blob/main/devcard.svg" width="400" alt="Alex Mazaltov's Dev Card"/></a>
 -->
+תיקון עולם עולם חסד
+
+לפי רצונו הטוב, הוא ממלא בי גם רצון וגם פעולה ליבדייןחברווי ַעצמוֹ
